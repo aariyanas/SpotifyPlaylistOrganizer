@@ -17,25 +17,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-/*TODO: fix functionality problems in...
-                                     - loadPlaylistFromFileButtonActionPerformed
-                                     - removeFromLikedSongs
-                                     - POTENTIALLY: addToPlaylist
-
-  TODO: make the stuff appear in JList at the end of the function execution...
-                                     - loadPlaylistFromFile and loadLikedSongsFromFile should print out the JSON stores
-                                       as a playlist or liked songs list with songs in it from the one you saved
-                                     - addToLikedSongs should print out the likedSongs after execution (with the new
-                                       song you just added)
-                                     - removeFromLikedSongs:
-                                            - you should be able to click on a song in you list of liked
-                                              songs and remove it from the list
-                                            - your likedSongs should print out after execution (minus the song you
-                                              just removed)
-                                     - addToPlaylist should print out the playlist after execution (with the new song
-                                       you just added
- */
-
 public class GUI {
     private JFrame frame;
     private JPanel panel;
