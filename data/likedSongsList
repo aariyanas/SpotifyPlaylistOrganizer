@@ -1,0 +1,28 @@
+{
+  "Liked Songs": [
+    {
+      "name": "Good 4 U",
+      "artist": "Olivia Rodrigo",
+      "genre": "Pop-Punk",
+      "liked": true
+    },
+    {
+      "name": "It's Quiet Uptown (from Hamilton Mixtape)",
+      "artist": "Kelly Clarkson",
+      "genre": "Broadway",
+      "liked": true
+    },
+    {
+      "name": "Bluebird",
+      "artist": "Miranda Lambert",
+      "genre": "Country",
+      "liked": true
+    },
+    {
+      "name": "Law and Order: SVU theme song",
+      "artist": "Mike Post",
+      "genre": "TV and Film Scores",
+      "liked": true
+    }
+  ]
+}

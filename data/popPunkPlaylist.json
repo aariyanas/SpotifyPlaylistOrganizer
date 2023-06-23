@@ -1,0 +1,19 @@
+{
+    "playlistGenre": "Pop-Punk",
+    "Playlist Songs": [
+        {
+            "songTitle": "Good 4 U",
+            "songGenre": "Pop-Punk",
+            "songIsLiked": true,
+            "songArtist": "Olivia Rodrigo"
+        },
+        {
+            "songTitle": "Bloody Valentine",
+            "songGenre": "Pop-Punk",
+            "songIsLiked": true,
+            "songArtist": "Machine Gun Kelly"
+        }
+    ],
+    "playlistLength": 6,
+    "playlistName": "Pop Punk Vibe$"
+}

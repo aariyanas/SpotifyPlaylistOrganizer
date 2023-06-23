@@ -1,0 +1,21 @@
+For JSon test files that i make:
+    - know the exact name of the files (so that you can re-call them when you are writing your reader and writer tests)
+    - don't need to test all the possible conditions of the functions that you've already implemented in your classes
+        - Create:
+            - an empty one
+            - a not readable one
+            - a readable one with stuff in it
+            - CAN DELETE THE REST OF THE FILES I HAVE --> they're not necessary
+
+For writing the implementations of functions in reader and writer:
+    - however you implemented things for playlist:
+        - implement the SAME WAY for liked songs! (just with the corresponding different parameter names)
+
+
+For JSonTest test class:
+    - it is a method that call all the individual getters for a song (a thingy)
+        - then, call that method in your JsonReaderTest class
+
+
+    *** may be smart to create a method that returns all the songs in a playlist
+        - base it off of the getThingies method in the JSon demo file provided

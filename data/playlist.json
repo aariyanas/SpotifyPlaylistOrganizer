@@ -1,0 +1,31 @@
+{
+    "playlistGenre": "pop",
+    "Playlist Songs": [
+        {
+            "songTitle": "watermelon sugar",
+            "songGenre": "pop",
+            "songIsLiked": true,
+            "songArtist": "harry styles"
+        },
+        {
+            "songTitle": "watermelon sugar",
+            "songGenre": "pop",
+            "songIsLiked": true,
+            "songArtist": "harry styles"
+        },
+        {
+            "songTitle": "watermelon sugar",
+            "songGenre": "pop",
+            "songIsLiked": true,
+            "songArtist": "harry styles"
+        },
+        {
+            "songTitle": "watermelon sugar",
+            "songGenre": "pop",
+            "songIsLiked": true,
+            "songArtist": "harry styles"
+        }
+    ],
+    "playlistLength": 4,
+    "playlistName": "pop"
+}

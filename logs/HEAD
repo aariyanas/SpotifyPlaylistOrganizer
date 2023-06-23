@@ -1,0 +1,63 @@
+0000000000000000000000000000000000000000 59083fc5f6752220d73568d70fc2e49c2b781290 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634099225 -0700	clone: from https://github.students.cs.ubc.ca/CPSC210-2021W-T1/project_r1u2b.git
+59083fc5f6752220d73568d70fc2e49c2b781290 694f0e67b981b31e534463800187971247db1251 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634111785 -0700	commit: finished task 1 and 2 for milestone 1
+694f0e67b981b31e534463800187971247db1251 a129f05b813157da0f1a1f61524ead2af765a555 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634165721 -0700	commit: completed user stories (task 3)
+a129f05b813157da0f1a1f61524ead2af765a555 33b613caa45463808e0872b76ea0e60ba5e8b6e2 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634284022 -0700	commit: finished task 4 (domain analysis (done on iPad in OneNote) and created the classes/test classes needed in model
+33b613caa45463808e0872b76ea0e60ba5e8b6e2 10f739a53029c05500a7b947f4144065278503dc Aariyana Sayani <aaris@students.cs.ubc.ca> 1634285707 -0700	commit: started task 5
+10f739a53029c05500a7b947f4144065278503dc e397a6dc958400053e048bdf41e964b893cb5514 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634341504 -0700	commit: done what i could of classes and methods to realize UIs
+e397a6dc958400053e048bdf41e964b893cb5514 38f35a302f057c44e98827aa5188d8c85ac88042 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634433082 -0700	commit: created song class and song test class
+38f35a302f057c44e98827aa5188d8c85ac88042 636cda1a43ec5e1956155543184cb298a13db6c1 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634437343 -0700	commit: created song, song test, playlist and playlist test classes
+636cda1a43ec5e1956155543184cb298a13db6c1 593be6aaaec2268ac68ccbf682352e7a6eb59fc7 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634437975 -0700	commit: created song, song test, playlist and playlist test classes and deleted scrapclass
+593be6aaaec2268ac68ccbf682352e7a6eb59fc7 bb02d0a2319d396fa3f308ea8a2e7560bb0ea7cf Aariyana Sayani <aaris@students.cs.ubc.ca> 1634438485 -0700	commit: fixed indent error for purpose of committing other classes to check
+bb02d0a2319d396fa3f308ea8a2e7560bb0ea7cf 3f4dd79909a9bb6441c1f0f869935d115ef558d4 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634633848 -0700	commit: stuff in the works
+3f4dd79909a9bb6441c1f0f869935d115ef558d4 209271506230d2081d104d489a6ac0179a81ecc5 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634639616 -0700	commit: stuff in the works
+209271506230d2081d104d489a6ac0179a81ecc5 3f45ea2715620f1ac6885716abcbb78946660fc0 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634641212 -0700	commit: stuff in the works
+3f45ea2715620f1ac6885716abcbb78946660fc0 30144dd6df4a1e423d336bb9c4c971feacce40df Aariyana Sayani <aaris@students.cs.ubc.ca> 1634644562 -0700	commit: playlist tests and liked songs tests in prog (errors need to be fixed)
+30144dd6df4a1e423d336bb9c4c971feacce40df 1d92ae1350abef10fde60b6e009ea7acadb48212 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634672515 -0700	commit: fixed all classes (only one test in playlist test not passing)
+1d92ae1350abef10fde60b6e009ea7acadb48212 63cb7bb5a42bd94694a883d0a9606c40ba2b6650 Aariyana Sayani <aaris@students.cs.ubc.ca> 1634679826 -0700	commit: specified and narrowed requires modifies and effects clauses
+63cb7bb5a42bd94694a883d0a9606c40ba2b6650 5ecdfc1c02ad3d17bd7f42c56f343f4006f8d3fe Aariyana Sayani <aaris@students.cs.ubc.ca> 1634686097 -0700	commit: fixed broken test/debugged/implemented ui
+5ecdfc1c02ad3d17bd7f42c56f343f4006f8d3fe 1e8d4f65c89248f4a9cc8359b82e6f1bb47cdeec Aariyana Sayani <aaris@students.cs.ubc.ca> 1634686951 -0700	commit: implemented main/finished all the stuff
+1e8d4f65c89248f4a9cc8359b82e6f1bb47cdeec 9af61042a36789d9e68a5eb1a3bf9ef653b119e2 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635112975 -0700	commit: modified my user stories
+9af61042a36789d9e68a5eb1a3bf9ef653b119e2 a6278f2d15e2cadadd3aabd91bd86333aa6e70fc Aariyana Sayani <aaris@students.cs.ubc.ca> 1635113034 -0700	commit (amend): modified my user stories/finished task 2 of phase 2
+a6278f2d15e2cadadd3aabd91bd86333aa6e70fc c5f596e44f67d4ade1a2b10d4c00ed793e13e009 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635113161 -0700	commit: modified my user stories/finished task 2 of phase 2
+c5f596e44f67d4ade1a2b10d4c00ed793e13e009 ccbd681a0df044b56158b4c8ee07864621258002 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635122679 -0700	commit: created some json data of playlists
+ccbd681a0df044b56158b4c8ee07864621258002 d6f486d106531dff7e261aa9d347ab394a68d00d Aariyana Sayani <aaris@students.cs.ubc.ca> 1635128173 -0700	commit: started some task 4 stuff/attempted to do stuff
+d6f486d106531dff7e261aa9d347ab394a68d00d ad791bdd586d9223db463d0743b33418cc0b23a0 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635129191 -0700	commit: added more json playlist data
+ad791bdd586d9223db463d0743b33418cc0b23a0 f57377c009b2b4fd0deb6fedf8fe9b507fa58727 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635201002 -0700	commit: wrote (almost done) json readable and writable
+f57377c009b2b4fd0deb6fedf8fe9b507fa58727 b8adfeb38cbee2d54b1d741571b7a13617bdac89 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635201109 -0700	commit (amend): wrote (almost done) json readable and writable
+b8adfeb38cbee2d54b1d741571b7a13617bdac89 5126fcced4975aa3bfd81fa071777b0c82f5c495 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635212493 -0700	commit: did more stuff
+5126fcced4975aa3bfd81fa071777b0c82f5c495 9c299bc3f361b90d7a7eb67fdfb4f1dd041ea95e Aariyana Sayani <aaris@students.cs.ubc.ca> 1635288974 -0700	commit: refined testfiles/did more stuff to code (almost done)
+9c299bc3f361b90d7a7eb67fdfb4f1dd041ea95e c760ee0dbcbf9b37e2ad3be0ff96af8290400fb1 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635296533 -0700	commit: did stuff
+c760ee0dbcbf9b37e2ad3be0ff96af8290400fb1 b1402df0743a0eeba7b98be027352734d877827c Aariyana Sayani <aaris@students.cs.ubc.ca> 1635496454 -0700	commit: added what needed to be added to the classes but tests still need to be fixed
+b1402df0743a0eeba7b98be027352734d877827c efd1a6c51df47d5379da357464812cb961ad3395 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635538332 -0700	commit: added other liked songs json files to git
+efd1a6c51df47d5379da357464812cb961ad3395 1ab09df4b9f72652891487054df045e1a236971f Aariyana Sayani <aaris@students.cs.ubc.ca> 1635540478 -0700	commit: fixed test problems
+1ab09df4b9f72652891487054df045e1a236971f 3d8183bfc3de8200879a474460a40fa844a159c4 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635540823 -0700	commit: removed unnecessary functions
+3d8183bfc3de8200879a474460a40fa844a159c4 3b3ea3261c6f23807ca673d365c1dc48640bd2f9 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635541628 -0700	commit: removed unnecessary code and commented out stuff
+3b3ea3261c6f23807ca673d365c1dc48640bd2f9 c2bbaca2946e960a1682cfae751dc21146cea4ef Aariyana Sayani <aaris@students.cs.ubc.ca> 1635547405 -0700	commit: did ui stuff
+c2bbaca2946e960a1682cfae751dc21146cea4ef cb851cc8384f9024e43c28e2602a6680c98ec003 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635548670 -0700	commit: took away the wrong static stuff i did
+cb851cc8384f9024e43c28e2602a6680c98ec003 62aa91f4632fac0aea545c05c224b1ffb29d5ded Aariyana Sayani <aaris@students.cs.ubc.ca> 1635550389 -0700	commit: fixed key name changes
+62aa91f4632fac0aea545c05c224b1ffb29d5ded 3955c7fc7b12b90db7e0213e555b8401f2d89da5 Aariyana Sayani <aaris@students.cs.ubc.ca> 1635551694 -0700	commit: finalized/updated requires modifies effects clauses
+3955c7fc7b12b90db7e0213e555b8401f2d89da5 22cec9330ccba2694e74616d61ad88bafdb70b17 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637094299 -0800	commit: added all necessary functions to make user process easier
+22cec9330ccba2694e74616d61ad88bafdb70b17 e31fc3388ed3266420cfefd2d5f00d01d5ca46aa Aariyana Sayani <aaris@students.cs.ubc.ca> 1637094339 -0800	commit: added all necessary functions to make user process easier and continued working on GUI
+e31fc3388ed3266420cfefd2d5f00d01d5ca46aa a52c3036a26b3f05415ff713f5216cb023045dc6 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637108755 -0800	commit: fixed SpotifyOrganizerApp class issues so UI works and improved GUI from previous step
+a52c3036a26b3f05415ff713f5216cb023045dc6 e11a6323e877a38a8452fafc2bd5f2faeaff41ae Aariyana Sayani <aaris@students.cs.ubc.ca> 1637115642 -0800	commit: did more stuff to GUI
+e11a6323e877a38a8452fafc2bd5f2faeaff41ae 32656a19e43b5aff0f974b34239089ebcd68976d Aariyana Sayani <aaris@students.cs.ubc.ca> 1637126036 -0800	commit: probably broke the GUI more
+32656a19e43b5aff0f974b34239089ebcd68976d 3002c5ce7cdc3d1e6b675cc9176305eddfebb91e Aariyana Sayani <aaris@students.cs.ubc.ca> 1637184135 -0800	commit: did more stuff to GUi
+3002c5ce7cdc3d1e6b675cc9176305eddfebb91e 0c7de4a142b729d4d7b1f7f59b8f0ee6a9cebb73 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637197482 -0800	commit: add to liked songs WORKS (almost)
+0c7de4a142b729d4d7b1f7f59b8f0ee6a9cebb73 4f23f87dbf5896d77d14ab17793448119615b455 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637312097 -0800	commit: did more stuff to UI
+4f23f87dbf5896d77d14ab17793448119615b455 9f1eacb92bdbf6a72db3c189533540494f4ee11a Aariyana Sayani <aaris@students.cs.ubc.ca> 1637359257 -0800	commit: did more stuff to UI
+9f1eacb92bdbf6a72db3c189533540494f4ee11a 81386cce8ff20522cfd2a1f5ceb031e662ffdb18 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637368971 -0800	commit: did stuff
+81386cce8ff20522cfd2a1f5ceb031e662ffdb18 9f1eacb92bdbf6a72db3c189533540494f4ee11a Aariyana Sayani <aaris@students.cs.ubc.ca> 1637602645 -0800	checkout: moving from master to 9f1eacb92bdbf6a72db3c189533540494f4ee11a
+9f1eacb92bdbf6a72db3c189533540494f4ee11a 81386cce8ff20522cfd2a1f5ceb031e662ffdb18 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637602806 -0800	checkout: moving from 9f1eacb92bdbf6a72db3c189533540494f4ee11a to master
+81386cce8ff20522cfd2a1f5ceb031e662ffdb18 81386cce8ff20522cfd2a1f5ceb031e662ffdb18 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637617738 -0800	reset: moving to HEAD
+81386cce8ff20522cfd2a1f5ceb031e662ffdb18 9f1eacb92bdbf6a72db3c189533540494f4ee11a Aariyana Sayani <aaris@students.cs.ubc.ca> 1637617738 -0800	checkout: moving from master to 9f1eacb92bdbf6a72db3c189533540494f4ee11a
+9f1eacb92bdbf6a72db3c189533540494f4ee11a 81386cce8ff20522cfd2a1f5ceb031e662ffdb18 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637618712 -0800	checkout: moving from 9f1eacb92bdbf6a72db3c189533540494f4ee11a to master
+81386cce8ff20522cfd2a1f5ceb031e662ffdb18 4419d2a9d31e45f054cb1c40cda6588a4f444cfa Aariyana Sayani <aaris@students.cs.ubc.ca> 1637622142 -0800	commit: re-fixed remove function after ta broke initially
+4419d2a9d31e45f054cb1c40cda6588a4f444cfa c9d27dc64123fb5bd195a97588fd10d053ee2cbe Aariyana Sayani <aaris@students.cs.ubc.ca> 1637622175 -0800	commit: re-fixed remove function after ta broke initially
+c9d27dc64123fb5bd195a97588fd10d053ee2cbe 7d3d4ca877d4733822b7183aaf25d1d7a851b213 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637622681 -0800	commit: re-fixed remove function after ta broke initially
+7d3d4ca877d4733822b7183aaf25d1d7a851b213 7e734abdf841b27dd247558c285330efae54e76f Aariyana Sayani <aaris@students.cs.ubc.ca> 1637642950 -0800	commit: added in EventLog statements where they seem like they need to be butnot fully fixed functionality of gui quite yet (almost though)
+7e734abdf841b27dd247558c285330efae54e76f f012fff20623ce7dc26c965a65f8d89ec2113a08 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637715981 -0800	commit: event now being logged
+f012fff20623ce7dc26c965a65f8d89ec2113a08 6841c513c3bf31aadb2d56f92ecc8693ff3c0c12 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637716599 -0800	commit: goodbye message added upon quit button pressed
+6841c513c3bf31aadb2d56f92ecc8693ff3c0c12 62c7a8f22482f9e555a701f7e3688450f21d797e Aariyana Sayani <aaris@students.cs.ubc.ca> 1637719541 -0800	commit: did tests for event log
+62c7a8f22482f9e555a701f7e3688450f21d797e 4fe2095f27bf9a46deb4c71dc03b47bf5ba692a1 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637721480 -0800	commit: slight refactoring
+4fe2095f27bf9a46deb4c71dc03b47bf5ba692a1 9480701cdeb2bde95c191e8013d026def5e5f1a3 Aariyana Sayani <aaris@students.cs.ubc.ca> 1637970905 -0800	commit: phase 4: task 2
+9480701cdeb2bde95c191e8013d026def5e5f1a3 8797153e95838a55e592bf96c771772348c4288f Aariyana Sayani <aaris@students.cs.ubc.ca> 1637972798 -0800	commit: phase 4: task 3

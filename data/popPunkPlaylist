@@ -1,0 +1,34 @@
+{
+  "Playlist Songs": [
+    {
+      "name": "Good 4 U",
+      "artist": "Olivia Rodrigo",
+      "genre": "Pop-Punk",
+      "liked": true
+    },
+
+    {
+      "name": "That's What You Get",
+      "artist": "Paramore",
+      "genre": "Pop-Punk",
+      "liked": true
+    },
+
+    {
+      "name": "Bloody Valentine",
+      "artist": "Machine Gun Kelly",
+      "genre": "Pop-Punk",
+      "liked": true
+    },
+
+    {
+      "name": "Welcome To The Black Parade",
+      "artist": "My Chemical Romance",
+      "genre": "Pop-Punk",
+      "liked": true
+    }
+  ],
+  "name": "Pop Punk Vibe$",
+  "genre": "Pop-Punk",
+  "length": 3
+}

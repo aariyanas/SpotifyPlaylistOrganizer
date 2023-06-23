@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cece8531-dcfe-46e5-9009-f27726b18b8d" name="Changes" comment="phase 4: task 3&#10;&#10;DONE(UML diagram + reflection)">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_22_2021_1_48_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_22_2021_1_48_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_22_2021_2_05_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_22_2021_2_05_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_22_2021_9_40_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_22_2021_9_40_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/likedsongs.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/likedsongs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/playlist.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/playlist.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/model/LikedSongs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/model/LikedSongs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/persistence/JsonReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/persistence/JsonReaderTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9f1eacb92bdbf6a72db3c189533540494f4ee11a" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zR7paF5QbLVvsjLygciC4Ik9hu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aariyanna\IdeaProjects\project_r1u2b\data" />
+      <recent name="C:\Users\Aariyanna\IdeaProjects\project_r1u2b\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aariyanna\IdeaProjects\project_r1u2b\data" />
+      <recent name="C:\Users\Aariyanna\IdeaProjects\project_r1u2b" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonReaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="persistence" />
+      <option name="MAIN_CLASS_NAME" value="persistence.JsonReaderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonReaderTest.testReaderPopPunkPlaylist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="persistence" />
+      <option name="MAIN_CLASS_NAME" value="persistence.JsonReaderTest" />
+      <option name="METHOD_NAME" value="testReaderPopPunkPlaylist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonWriterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="persistence" />
+      <option name="MAIN_CLASS_NAME" value="persistence.JsonWriterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LikedSongsTest.testGetName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.LikedSongsTest" />
+      <option name="METHOD_NAME" value="testGetName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.JsonReaderTest" />
+        <item itemvalue="JUnit.JsonWriterTest" />
+        <item itemvalue="JUnit.LikedSongsTest.testGetName" />
+        <item itemvalue="JUnit.JsonReaderTest.testReaderPopPunkPlaylist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cece8531-dcfe-46e5-9009-f27726b18b8d" name="Changes" comment="" />
+      <created>1634099229999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634099229999</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed indent error for purpose of committing other classes to check">
+      <created>1634438486009</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634438486009</updated>
+    </task>
+    <task id="LOCAL-00008" summary="stuff in the works">
+      <created>1634633848310</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634633848310</updated>
+    </task>
+    <task id="LOCAL-00009" summary="stuff in the works">
+      <created>1634639616225</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634639616225</updated>
+    </task>
+    <task id="LOCAL-00010" summary="stuff in the works">
+      <created>1634641212504</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634641212504</updated>
+    </task>
+    <task id="LOCAL-00011" summary="playlist tests and liked songs tests in prog (errors need to be fixed)">
+      <created>1634644562669</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634644562669</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixed all classes (only one test in playlist test not passing)">
+      <created>1634672515274</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1634672515274</updated>
+    </task>
+    <task id="LOCAL-00013" summary="specified and narrowed requires modifies and effects clauses">
+      <created>1634679826807</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1634679826807</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fixed broken test/debugged/implemented ui">
+      <created>1634686097181</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1634686097181</updated>
+    </task>
+    <task id="LOCAL-00015" summary="implemented main/finished all the stuff">
+      <created>1634686951246</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1634686951246</updated>
+    </task>
+    <task id="LOCAL-00016" summary="modified my user stories">
+      <created>1635112975621</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1635112975621</updated>
+    </task>
+    <task id="LOCAL-00017" summary="modified my user stories/finished task 2 of phase 2">
+      <created>1635113034575</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1635113034575</updated>
+    </task>
+    <task id="LOCAL-00018" summary="modified my user stories/finished task 2 of phase 2">
+      <created>1635113161183</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1635113161183</updated>
+    </task>
+    <task id="LOCAL-00019" summary="created some json data of playlists">
+      <created>1635122679256</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1635122679256</updated>
+    </task>
+    <task id="LOCAL-00020" summary="started some task 4 stuff/attempted to do stuff">
+      <created>1635128173772</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1635128173772</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added more json playlist data">
+      <created>1635129191121</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1635129191121</updated>
+    </task>
+    <task id="LOCAL-00022" summary="wrote (almost done) json readable and writable">
+      <created>1635201002419</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1635201002419</updated>
+    </task>
+    <task id="LOCAL-00023" summary="wrote (almost done) json readable and writable">
+      <created>1635201109273</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1635201109273</updated>
+    </task>
+    <task id="LOCAL-00024" summary="did more stuff">
+      <created>1635212493307</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1635212493307</updated>
+    </task>
+    <task id="LOCAL-00025" summary="refined testfiles/did more stuff to code (almost done)">
+      <created>1635288974404</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1635288974404</updated>
+    </task>
+    <task id="LOCAL-00026" summary="did stuff">
+      <created>1635296533860</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1635296533860</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added what needed to be added to the classes but tests still need to be fixed">
+      <created>1635496454603</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1635496454605</updated>
+    </task>
+    <task id="LOCAL-00028" summary="added other liked songs json files to git">
+      <created>1635538332168</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1635538332168</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fixed test problems">
+      <created>1635540478397</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1635540478397</updated>
+    </task>
+    <task id="LOCAL-00030" summary="removed unnecessary functions">
+      <created>1635540823122</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1635540823122</updated>
+    </task>
+    <task id="LOCAL-00031" summary="removed unnecessary code and commented out stuff">
+      <created>1635541628246</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1635541628246</updated>
+    </task>
+    <task id="LOCAL-00032" summary="did ui stuff">
+      <created>1635547405822</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1635547405822</updated>
+    </task>
+    <task id="LOCAL-00033" summary="took away the wrong static stuff i did">
+      <created>1635548670705</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1635548670705</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fixed key name changes">
+      <created>1635550389978</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1635550389978</updated>
+    </task>
+    <task id="LOCAL-00035" summary="finalized/updated requires modifies effects clauses">
+      <created>1635551694171</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1635551694171</updated>
+    </task>
+    <task id="LOCAL-00036" summary="added all necessary functions to make user process easier">
+      <created>1637094299293</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1637094299294</updated>
+    </task>
+    <task id="LOCAL-00037" summary="added all necessary functions to make user process easier and continued working on GUI">
+      <created>1637094339946</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1637094339946</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fixed SpotifyOrganizerApp class issues so UI works and improved GUI from previous step">
+      <created>1637108755545</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1637108755545</updated>
+    </task>
+    <task id="LOCAL-00039" summary="did more stuff to GUI">
+      <created>1637115642847</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1637115642848</updated>
+    </task>
+    <task id="LOCAL-00040" summary="probably broke the GUI more">
+      <created>1637126037042</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1637126037042</updated>
+    </task>
+    <task id="LOCAL-00041" summary="did more stuff to GUi">
+      <created>1637184135176</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1637184135176</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add to liked songs WORKS (almost)">
+      <created>1637197483029</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1637197483029</updated>
+    </task>
+    <task id="LOCAL-00043" summary="did more stuff to UI">
+      <created>1637312098181</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1637312098182</updated>
+    </task>
+    <task id="LOCAL-00044" summary="did more stuff to UI">
+      <created>1637359258036</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1637359258036</updated>
+    </task>
+    <task id="LOCAL-00045" summary="did stuff">
+      <created>1637368971986</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1637368971986</updated>
+    </task>
+    <task id="LOCAL-00046" summary="re-fixed remove function after ta broke initially">
+      <created>1637622142386</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1637622142386</updated>
+    </task>
+    <task id="LOCAL-00047" summary="re-fixed remove function after ta broke initially">
+      <created>1637622175935</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1637622175935</updated>
+    </task>
+    <task id="LOCAL-00048" summary="re-fixed remove function after ta broke initially">
+      <created>1637622681520</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1637622681520</updated>
+    </task>
+    <task id="LOCAL-00049" summary="added in EventLog statements where they seem like they need to be butnot fully fixed functionality of gui quite yet (almost though)">
+      <created>1637642950346</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1637642950346</updated>
+    </task>
+    <task id="LOCAL-00050" summary="event now being logged">
+      <created>1637715981401</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1637715981401</updated>
+    </task>
+    <task id="LOCAL-00051" summary="goodbye message added upon quit button pressed">
+      <created>1637716599868</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1637716599868</updated>
+    </task>
+    <task id="LOCAL-00052" summary="did tests for event log">
+      <created>1637719541464</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1637719541464</updated>
+    </task>
+    <task id="LOCAL-00053" summary="slight refactoring">
+      <created>1637721480702</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1637721480702</updated>
+    </task>
+    <task id="LOCAL-00054" summary="phase 4: task 2">
+      <created>1637970905836</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1637970905838</updated>
+    </task>
+    <task id="LOCAL-00055" summary="phase 4: task 3&#10;&#10;DONE(UML diagram + reflection)">
+      <created>1637972798750</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1637972798750</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed unnecessary functions" />
+    <MESSAGE value="removed unnecessary code and commented out stuff" />
+    <MESSAGE value="did ui stuff" />
+    <MESSAGE value="took away the wrong static stuff i did" />
+    <MESSAGE value="fixed key name changes" />
+    <MESSAGE value="finalized/updated requires modifies effects clauses" />
+    <MESSAGE value="added all necessary functions to make user process easier" />
+    <MESSAGE value="added all necessary functions to make user process easier and continued working on GUI" />
+    <MESSAGE value="fixed SpotifyOrganizerApp class issues so UI works and improved GUI from previous step" />
+    <MESSAGE value="did more stuff to GUI" />
+    <MESSAGE value="probably broke the GUI more" />
+    <MESSAGE value="did more stuff to GUi" />
+    <MESSAGE value="add to liked songs WORKS (almost)" />
+    <MESSAGE value="did more stuff to UI" />
+    <MESSAGE value="did stuff" />
+    <MESSAGE value="re-fixed remove function after ta broke initially" />
+    <MESSAGE value="added in EventLog statements where they seem like they need to be butnot fully fixed functionality of gui quite yet" />
+    <MESSAGE value="added in EventLog statements where they seem like they need to be butnot fully fixed functionality of gui quite yet (almost though)" />
+    <MESSAGE value="event now being logged" />
+    <MESSAGE value="goodbye message added upon quit button pressed" />
+    <MESSAGE value="did tests for event log" />
+    <MESSAGE value="undid a space" />
+    <MESSAGE value="slight refactoring" />
+    <MESSAGE value="phase 4: task 2" />
+    <MESSAGE value="phase 4: task 3&#10;&#10;DONE(UML diagram + reflection)" />
+    <option name="LAST_COMMIT_MESSAGE" value="phase 4: task 3&#10;&#10;DONE(UML diagram + reflection)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="18" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/persistence/JsonWriterTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="p5" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_Starter$JsonReaderTest.ic" NAME="JsonReaderTest Coverage Results" MODIFIED="1645589449903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>persistence.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$JsonWriterTest.ic" NAME="JsonWriterTest Coverage Results" MODIFIED="1635550318148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>persistence.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$SongTest_testGetSongTitle.ic" NAME="SongTest.testGetSongTitle Coverage Results" MODIFIED="1634634954931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+  </component>
+</project>

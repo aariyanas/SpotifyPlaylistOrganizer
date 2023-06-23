@@ -1,0 +1,29 @@
+{
+    "liked songs": [
+        {
+            "songTitle": "watermelon sugar",
+            "songGenre": "pop",
+            "songIsLiked": true,
+            "songArtist": "harry styles"
+        },
+        {
+            "songTitle": "ON",
+            "songGenre": "kpop",
+            "songIsLiked": true,
+            "songArtist": "BTS"
+        },
+        {
+            "songTitle": "watermelon sugar",
+            "songGenre": "pop",
+            "songIsLiked": true,
+            "songArtist": "harry styles"
+        },
+        {
+            "songTitle": "in the end",
+            "songGenre": "punk",
+            "songIsLiked": true,
+            "songArtist": "linkin park"
+        }
+    ],
+    "name": "Liked Songs"
+}
